@@ -1,0 +1,69 @@
+2016-04-25 06:16:16,264 DEBUG [com.topcoder.web.common.cache.admin.CacheAdmin] Creating topcoder.admin:service=CacheAdmin
+2016-04-25 06:16:16,264 DEBUG [com.topcoder.web.common.cache.admin.CacheAdmin] Created topcoder.admin:service=CacheAdmin
+2016-04-25 06:16:16,265 DEBUG [com.topcoder.web.common.cache.admin.CacheAdmin] Starting topcoder.admin:service=CacheAdmin
+2016-04-25 06:16:16,265 DEBUG [com.topcoder.web.common.cache.admin.CacheAdmin] Started topcoder.admin:service=CacheAdmin
+2016-04-25 06:16:30,140 INFO  [org.apache.catalina.startup.Embedded] Catalina naming disabled
+2016-04-25 06:16:30,267 INFO  [org.apache.catalina.startup.ClusterRuleSetFactory] Unable to find a cluster rule set in the classpath. Will load the default rule set.
+2016-04-25 06:16:30,269 INFO  [org.apache.catalina.startup.ClusterRuleSetFactory] Unable to find a cluster rule set in the classpath. Will load the default rule set.
+2016-04-25 06:16:31,188 INFO  [org.apache.coyote.http11.Http11BaseProtocol] Initializing Coyote HTTP/1.1 on http-0.0.0.0-9180
+2016-04-25 06:16:31,189 INFO  [org.apache.catalina.startup.Catalina] Initialization processed in 920 ms
+2016-04-25 06:16:31,189 INFO  [org.jboss.web.tomcat.tc5.StandardService] Starting service jboss.web
+2016-04-25 06:16:31,192 INFO  [org.apache.catalina.core.StandardEngine] Starting Servlet Engine: Apache Tomcat/5.5.20
+2016-04-25 06:16:33,648 INFO  [org.apache.catalina.core.StandardHost] XML validation disabled
+2016-04-25 06:16:34,222 INFO  [org.apache.catalina.startup.Catalina] Server startup in 3033 ms
+2016-04-25 06:16:34,460 INFO  [org.jboss.web.tomcat.tc5.TomcatDeployer] deploy, ctxPath=/, warUrl=.../deploy/jbossweb-tomcat55.sar/ROOT.war/
+2016-04-25 06:16:35,421 INFO  [org.apache.catalina.loader.WebappLoader] Dual registration of jndi stream handler: factory already defined
+2016-04-25 06:16:36,950 INFO  [org.jboss.cache.factories.InterceptorChainFactory] interceptor chain is:
+class org.jboss.cache.interceptors.CallInterceptor
+class org.jboss.cache.interceptors.EvictionInterceptor
+class org.jboss.cache.interceptors.PessimisticLockInterceptor
+class org.jboss.cache.interceptors.UnlockInterceptor
+class org.jboss.cache.interceptors.TxInterceptor
+class org.jboss.cache.interceptors.CacheMgmtInterceptor
+2016-04-25 06:16:37,616 INFO  [org.jboss.web.tomcat.tc5.TomcatDeployer] deploy, ctxPath=/jmx-console, warUrl=.../deploy/jmx-console.war/
+2016-04-25 06:16:38,153 INFO  [org.apache.coyote.http11.Http11BaseProtocol] Starting Coyote HTTP/1.1 on http-0.0.0.0-9180
+2016-04-25 06:16:38,975 INFO  [org.apache.jk.common.ChannelSocket] JK: ajp13 listening on /0.0.0.0:9109
+2016-04-25 06:16:39,793 INFO  [org.apache.jk.server.JkMain] Jk running ID=0 time=0/1491  config=null
+2016-04-25 06:16:39,826 INFO  [org.jboss.system.server.Server] JBoss (MX MicroKernel) [4.0.5.GA (build: CVSTag=Branch_4_0 date=200610162339)] Started in 59s:131ms
+2016-04-25 10:28:23,902 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default PROD = 1
+2016-04-25 10:28:23,958 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default QA = 2
+2016-04-25 10:28:23,958 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default DEV = 3
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default ENVIRONMENT = 3
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default SERVER_NAME = 172.16.20.20
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default STUDIO_SERVER_NAME = studio.dev.topcoder.com
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default OPENAIM_SERVER_NAME = openaim.dev.topcoder.com
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default TRUVEO_SERVER_NAME = www.dev.topcoder.com/truveo
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default AOLICQ_SERVER_NAME = www.dev.topcoder.com/aolicq
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default WINFORMULA_SERVER_NAME = www.dev.topcoder.com/winformula
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default CSF_SERVER_NAME = csf.dev.topcoder.com
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default CORP_SERVER_NAME = 172.16.20.20/corp
+2016-04-25 10:28:23,959 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default SOFTWARE_SERVER_NAME = 172.16.20.222
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default FORUMS_SERVER_NAME = forums.topcoder.com
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default HOST_URL = t3://172.16.20.41:7030
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default FORUMS_HOST_URL = 63.118.154.182:1099
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default JMS_HOST_URL = jnp://172.16.210.55:1100,jnp://172.16.210.56:1100
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default CONTEST_HOST_URL = t3://172.16.20.40:9003
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default PACTS_HOST_URL = t3://172.16.20.40:9003
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default USER_SERVICES_HOST_URL = t3://172.16.20.40:9003
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default BASE_DIR = /usr/web/build/classes
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default SECURITY_PROVIDER_URL = 172.16.20.40:1099
+2016-04-25 10:28:23,960 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default FILE_CONVERSION_PROVIDER_URL = 172.16.210.53:1099
+2016-04-25 10:28:23,961 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default DISTRIBUTED_UI_SERVER_NAME = 63.118.154.181:9380
+2016-04-25 10:28:23,961 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default OR_WEBSERVICES_SERVER_NAME = 63.118.154.186:8080
+2016-04-25 10:28:23,961 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default WIKI_SERVER_NAME = www.dev.topcoder.com/wiki
+2016-04-25 10:28:23,961 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default SSO_DOMAIN = .topcoder.com
+2016-04-25 10:28:23,961 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default JMS_FACTORY = jms.connection.jmsFactory
+2016-04-25 10:28:23,961 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default JMS_BKP_FACTORY = jms.connection.jmsFactory_BKP
+2016-04-25 10:28:23,961 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default TRANS_FACTORY = javax.transaction.UserTransaction
+2016-04-25 10:28:23,961 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default TRANS_MANAGER = weblogic/transaction/TransactionManager
+2016-04-25 10:28:23,961 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default SECURITY_CONTEXT_FACTORY = org.jnp.interfaces.NamingContextFactory
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default STUDIO_SERVICES_PROVIDER_URL = 127.0.0.1:1399
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default STUDIO_SERVICES_USERNAME = user
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default STUDIO_SERVICES_PASSWORD = password
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default STUDIO_SERVICES_CONTEXT_FACTORY = org.jboss.security.jndi.LoginInitialContextFactory
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default STUDIO_SERVICES_PKG_PREFIXES = org.jboss.naming:org.jnp.interfaces
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default STUDIO_SERVICES_PROTOCOL = cockpitDomain
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default STUDIO_SERVICES_JNDI_NAME = StudioServiceBean/remote
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default SESSION_ID_LENGTH = 50
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default TCS_APP_SERVER_URL = 172.16.20.222:1099
+2016-04-25 10:28:23,962 DEBUG [com.topcoder.shared.util.TCResourceBundle] key not found, setting default WEB_SERVER_ID = 1

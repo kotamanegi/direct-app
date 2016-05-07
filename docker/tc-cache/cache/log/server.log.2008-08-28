@@ -1,0 +1,27 @@
+2008-08-28 17:10:57,678 DEBUG [com.topcoder.web.common.cache.admin.CacheAdmin] Creating topcoder.admin:service=CacheAdmin
+2008-08-28 17:10:57,678 DEBUG [com.topcoder.web.common.cache.admin.CacheAdmin] Created topcoder.admin:service=CacheAdmin
+2008-08-28 17:10:57,679 DEBUG [com.topcoder.web.common.cache.admin.CacheAdmin] Starting topcoder.admin:service=CacheAdmin
+2008-08-28 17:10:57,679 DEBUG [com.topcoder.web.common.cache.admin.CacheAdmin] Started topcoder.admin:service=CacheAdmin
+2008-08-28 17:11:12,793 INFO  [org.apache.catalina.startup.Embedded] Catalina naming disabled
+2008-08-28 17:11:12,948 INFO  [org.apache.catalina.startup.ClusterRuleSetFactory] Unable to find a cluster rule set in the classpath. Will load the default rule set.
+2008-08-28 17:11:12,949 INFO  [org.apache.catalina.startup.ClusterRuleSetFactory] Unable to find a cluster rule set in the classpath. Will load the default rule set.
+2008-08-28 17:11:14,438 INFO  [org.apache.coyote.http11.Http11BaseProtocol] Initializing Coyote HTTP/1.1 on http-0.0.0.0-9180
+2008-08-28 17:11:14,445 INFO  [org.apache.catalina.startup.Catalina] Initialization processed in 1496 ms
+2008-08-28 17:11:14,445 INFO  [org.jboss.web.tomcat.tc5.StandardService] Starting service jboss.web
+2008-08-28 17:11:14,447 INFO  [org.apache.catalina.core.StandardEngine] Starting Servlet Engine: Apache Tomcat/5.5.20
+2008-08-28 17:11:14,623 INFO  [org.apache.catalina.core.StandardHost] XML validation disabled
+2008-08-28 17:11:14,810 INFO  [org.apache.catalina.startup.Catalina] Server startup in 365 ms
+2008-08-28 17:11:16,181 INFO  [org.jboss.web.tomcat.tc5.TomcatDeployer] deploy, ctxPath=/, warUrl=.../deploy/jbossweb-tomcat55.sar/ROOT.war/
+2008-08-28 17:11:17,560 INFO  [org.apache.catalina.loader.WebappLoader] Dual registration of jndi stream handler: factory already defined
+2008-08-28 17:11:20,199 INFO  [org.jboss.cache.factories.InterceptorChainFactory] interceptor chain is:
+class org.jboss.cache.interceptors.CallInterceptor
+class org.jboss.cache.interceptors.EvictionInterceptor
+class org.jboss.cache.interceptors.PessimisticLockInterceptor
+class org.jboss.cache.interceptors.UnlockInterceptor
+class org.jboss.cache.interceptors.TxInterceptor
+class org.jboss.cache.interceptors.CacheMgmtInterceptor
+2008-08-28 17:11:23,166 INFO  [org.jboss.web.tomcat.tc5.TomcatDeployer] deploy, ctxPath=/jmx-console, warUrl=.../deploy/jmx-console.war/
+2008-08-28 17:11:26,859 INFO  [org.apache.coyote.http11.Http11BaseProtocol] Starting Coyote HTTP/1.1 on http-0.0.0.0-9180
+2008-08-28 17:11:27,140 INFO  [org.apache.jk.common.ChannelSocket] JK: ajp13 listening on /0.0.0.0:9109
+2008-08-28 17:11:30,824 INFO  [org.apache.jk.server.JkMain] Jk running ID=0 time=0/3699  config=null
+2008-08-28 17:11:30,889 INFO  [org.jboss.system.server.Server] JBoss (MX MicroKernel) [4.0.5.GA (build: CVSTag=Branch_4_0 date=200610162339)] Started in 48s:898ms

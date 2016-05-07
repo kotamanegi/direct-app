@@ -34,7 +34,7 @@
       <servlet-class>org.jboss.jmx.adaptor.html.ClusteredConsoleServlet</servlet-class>
       <init-param>
          <param-name>jgProps</param-name>
-         <param-value>UDP(ip_mcast=true;ip_ttl=16;loopback=false;mcast_addr=${jboss.partition.udpGroup:228.1.2.3};mcast_port=${jboss.partition.udpPort:45566}):
+         <param-value>UDP(ip_mcast=true;ip_ttl=16;loopback=false;mcast_addr=${jboss.partition.udpGroup:228.1.2.3};mcast_port=45566):
 org.jboss.jmx.adaptor.control.FindView
          </param-value>
          <description>The JGroups protocol stack config</description>
